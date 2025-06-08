@@ -1,0 +1,3 @@
+BACKEND_HOST: backend.pa1.online
+APP_LOCATION: /usr/share/nginx/html
+COMPONENT: frontend
